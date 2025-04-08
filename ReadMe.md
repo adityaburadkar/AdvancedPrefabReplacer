@@ -37,6 +37,9 @@ No additional packages required. Pure Editor utility.
 4. Click “Replace”
 
 ---
+## 🔥 Live Demo
+
+![Demo](assets/HowTOUse.gif)
 
 ## Features
 - Undo supported

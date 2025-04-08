@@ -54,7 +54,8 @@ No additional packages required. Pure Editor utility.
 ---
 
 ## Credits
-Created by Aditya Buradkar
+Created by **Aditya Buradkar**
+
 Follow for more tools and updates.
 
 ---
